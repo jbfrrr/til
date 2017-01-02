@@ -8,5 +8,4 @@
  
 If you don't want to use `gdebi`, you can resolve dependency issues after you install your chosen `.deb` package by running `sudo apt-get -f install`
 
-~context:
-I learned this today because I was trying to install and try a recommended markdown editor, [Remarkable](https://remarkableapp.github.io/linux.html) and came across depedency issues ~
+**context**: I learned this today because I was trying to install and try a recommended markdown editor, [Remarkable](https://remarkableapp.github.io/linux.html) and came across depedency issues
