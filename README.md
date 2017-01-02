@@ -7,16 +7,19 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 
 ---
 
 ###Categories
+* [Git](#git)
 * [Linux](#linux)
 
-
 ---
+
+###Git
+* [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
 
 ###Linux
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
