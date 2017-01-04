@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 
 ---
@@ -15,7 +15,7 @@ _3 TILs and counting..._
 ###Categories
 * [Git](#git)
 * [Linux](#linux)
-
+* [Tmux](#tmux)
 ---
 
 ###Git
@@ -25,3 +25,6 @@ _3 TILs and counting..._
 
 ###Linux
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
+
+###Tmux
+* [Switching Layouts](tmux/switching-layouts.md)
