@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 
 ---
@@ -28,4 +28,5 @@ _4 TILs and counting..._
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
 
 ###Tmux
+* [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
 * [Switching Layouts](tmux/switching-layouts.md)
