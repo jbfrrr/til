@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 
 ---
@@ -32,3 +32,6 @@ _7 TILs and counting..._
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
 * [Support 256 colors](tmux/support-256-colors.md)
 * [Switching Layouts](tmux/switching-layouts.md)
+
+###Vim
+* [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
