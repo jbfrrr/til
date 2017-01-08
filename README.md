@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 
 ---
@@ -24,6 +24,9 @@ _8 TILs and counting..._
 * [Delete remote branch](git/delete-remote-branch.md)
 * [Remove untracked files or folders](git/remove-untracked-files-or-folders.md)
 * [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
+
+###Javascript
+* [Tilde Operator](javascript/tilde-operator.md)
 
 
 ###Linux
