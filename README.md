@@ -26,7 +26,7 @@ _10 TILs and counting..._
 * [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
 
 ###Javascript
-* [Spread Operator](javascript/spread-operator.md)
+* [Spread Operator (a.k.a Rest Operator)](javascript/spread-operator.md)
 * [Tilde Operator](javascript/tilde-operator.md)
 
 

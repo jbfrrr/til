@@ -1,4 +1,4 @@
-# Spread Operator
+# Spread Operator (a.k.a Rest Operator)
 
 `...` or the spread operator is an ES6 feature that allows the expansion of an expression where multiple arguments (e.g. functions) or multiple elements (e.g. arrays) or multiple variables (destructure; a.k.a rest operator) are expected.
 
