@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 
 ---
@@ -40,3 +40,4 @@ _10 TILs and counting..._
 
 ###Vim
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
+* [Relocating a tab](vim/relocating-a-tab.md)
