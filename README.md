@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 
 ---
@@ -27,6 +27,7 @@ _11 TILs and counting..._
 
 ###Javascript
 * [Spread Operator (a.k.a Rest Operator)](javascript/spread-operator.md)
+* [Template Literals](javascript/template-literals.md)
 * [Tilde Operator](javascript/tilde-operator.md)
 
 
