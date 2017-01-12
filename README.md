@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 
 ---
@@ -36,6 +36,7 @@ _12 TILs and counting..._
 
 ###Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
+* [Kill Window](tmux/kill-window.md)
 * [Support 256 colors](tmux/support-256-colors.md)
 * [Switching Layouts](tmux/switching-layouts.md)
 
