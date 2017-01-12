@@ -17,6 +17,8 @@ _13 TILs and counting..._
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [Tmux](#tmux)
+* [Unix](#unix)
+* [Vim](#vim)
 
 ---
 
