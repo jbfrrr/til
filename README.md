@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 
 ---
@@ -41,6 +41,9 @@ _13 TILs and counting..._
 * [Kill Window](tmux/kill-window.md)
 * [Support 256 colors](tmux/support-256-colors.md)
 * [Switching Layouts](tmux/switching-layouts.md)
+
+###Unix
+* [Kill 'unclosable' window](unix/kill-unclosable-window.md)
 
 ###Vim
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
