@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 
 ---
@@ -44,6 +44,7 @@ _14 TILs and counting..._
 
 ###Unix
 * [Kill 'unclosable' window](unix/kill-unclosable-window.md)
+* [Sticky Bit](unix/sticky-bit.md)
 
 ###Vim
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
