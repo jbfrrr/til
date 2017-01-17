@@ -14,6 +14,7 @@ _8 TILs and counting..._
 
 ###Categories
 * [Git](#git)
+* [Javascript](#javascript)
 * [Linux](#linux)
 * [Tmux](#tmux)
 
