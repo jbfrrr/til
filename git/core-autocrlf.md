@@ -10,13 +10,13 @@ Setting `core.autocrlf` correctly on your project's git config or your global co
 The setup below will leave you with CRLF endings in Windows checkouts but LF endings on Linux/Mac. (_note, the cases below use the global config; restrict to local repo if you want_)
 
 Windows
-```
+```sh
 # this converts LF into CRLF
 git config --global core.autocrlf true
 ```
 
 Linux/Mac (and the like...)
-```
+```sh
 # converts CRLF to LF on commit
 git config --global core.autoclrf input
 ```

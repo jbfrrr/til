@@ -11,7 +11,7 @@ To kill a seemingly 'unclosable' window, just do the ff:
 
 
 For more info on the commands used, check their manuals:
-```
+```sh
 man xwininfo # manual for xwininfo
 man xkill # manual for xkill
 ```

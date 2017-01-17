@@ -3,7 +3,7 @@
 If you want to prevent users (other than the owner/root)  from deleting/renaming a folder and its content, you can add the `Sticky Bit` to the permissions of that folder.
 
 You can place the `Sticky Bit` using different methods. Below are a couple of ways to do so.
-```
+```sh
 # symbolic method
 chmod +t <directory>
 
@@ -12,7 +12,7 @@ chmod 1777 <directory>
 ```
 
 Once, the `Sticky Bit` is assigned to a directory, its permissions could look something like this:
-```
+```sh
 # `t` is the sticky bit part
 # note that even if all users have rwx rights, they still can't rename/delete files 
 # unless they're they owner of the directory or they're root

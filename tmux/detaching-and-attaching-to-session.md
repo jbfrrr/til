@@ -10,6 +10,6 @@ To attach to the last session, do:
 tmux a
 ```
 To specify a session to attach to, do:
-```
-tmux a -t <session name> // I believe -t stands for target session
+```sh
+tmux a -t <session name> # I believe -t stands for target session
 ```

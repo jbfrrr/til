@@ -1,7 +1,7 @@
 # Delete remote branch
 
 To delete a remote branch:
-```
+```sh
 # you can do...
 git push <remote_repo> :<branch_name>  
 
@@ -11,7 +11,7 @@ git push <remote_repo> --delete <branch_name>
 
 **example**:
 This `til` project's `remote_repo` is named `origin` i.e. after executing `git remote -v` I get
-```
+```sh
 origin	git@github.com:jbfrrr/til.git (fetch)
 origin	git@github.com:jbfrrr/til.git (push)
 ```

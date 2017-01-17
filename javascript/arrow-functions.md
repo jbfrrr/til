@@ -7,7 +7,7 @@ It also doesn't bind to its own `arguments`, `super` or `new.target`. Although I
 The best way I understood the basics of arrow functions is through a set of relatable examples/use cases that show its benefits. Let's do that...
 
 **Sample 1**: More concise...
-```javascript
+```js
 // traditional way of defining functions prior to ES6
 var cubeV1 = function (a) {
     return a*a*a;
@@ -35,7 +35,7 @@ cubeV4(2); // outputs 8
 ```
 
 **Sample 2**: Doesn't bind to `this`...
-```javascript
+```js
 // tranditional way of applying anonymous functions with OOP
 function Timer(x) {
 	this.startTime = 0;

@@ -2,7 +2,7 @@
 
 The following commands will ensure that Git will explicitly ask you to set `user.name` and `user.email` on a per-repository basis.
 
-```
+```sh
 # Requires you to set user.name and email per repository
 git config --global user.useConfigOnly true
 
