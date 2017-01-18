@@ -1,6 +1,6 @@
 # Kill Window
 
-Let be whatever your tmux control prefix is. In my case, it’s just the default, ctrl+b
+Let `<prefix>` be whatever your tmux control prefix is. In my case, it’s just the default, `ctrl+b`
 
 To kill the current/active `window` in tmux, simply do
 ```

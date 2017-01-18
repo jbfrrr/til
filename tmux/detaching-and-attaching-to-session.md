@@ -1,5 +1,5 @@
 # Detaching and Attaching to session
-Let <prefix> be whatever your tmux control prefix is. In my case, it’s just the default, ctrl+b
+Let `<prefix>` be whatever your tmux control prefix is. In my case, it’s just the default, `ctrl+b`
 
 To detach from a session, simply do:
 ```
