@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 
 ---
@@ -17,6 +17,7 @@ _19 TILs and counting..._
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [Mysql](#mysql)
+* [PHP](#php)
 * [Tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -41,6 +42,9 @@ _19 TILs and counting..._
 
 ###Mysql
 * [`pager`](mysql/pager.md)
+
+###PHP
+* [`empty` quirk](php/empty-quirk.md)
 
 ###Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
