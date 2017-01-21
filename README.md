@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 
 ---
@@ -16,6 +16,7 @@ _18 TILs and counting..._
 * [Git](#git)
 * [Javascript](#javascript)
 * [Linux](#linux)
+* [Mysql](#mysql)
 * [Tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -37,6 +38,9 @@ _18 TILs and counting..._
 
 ###Linux
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
+
+###Mysql
+* [`pager`](mysql/pager.md)
 
 ###Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
