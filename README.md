@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 
 ---
@@ -54,6 +54,7 @@ _20 TILs and counting..._
 * [Switching Layouts](tmux/switching-layouts.md)
 
 ###Unix
+* [Disk Usage `du`](unix/du.md)
 * [Kill 'unclosable' window](unix/kill-unclosable-window.md)
 * [Sticky Bit](unix/sticky-bit.md)
 
