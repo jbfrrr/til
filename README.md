@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 
 ---
@@ -60,5 +60,6 @@ _22 TILs and counting..._
 * [Sticky Bit](unix/sticky-bit.md)
 
 ###Vim
+* [Folding](vim/folding.md)
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
 * [Relocating a tab](vim/relocating-a-tab.md)
