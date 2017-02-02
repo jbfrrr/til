@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 
 ---
@@ -46,6 +46,9 @@ _25 TILs and counting..._
 
 ###PHP
 * [`empty` quirk](php/empty-quirk.md)
+
+###Security
+* [`istheinternetonfire.com`](unix/istheinternetonfire.com.md)
 
 ###Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
