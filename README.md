@@ -7,12 +7,13 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 
 ---
 
 ###Categories
+* [AngularJS](#angularjs)
 * [Git](#git)
 * [Javascript](#javascript)
 * [Linux](#linux)
@@ -23,6 +24,9 @@ _26 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+###AngularJS
+* [Relative assets and `moduleId`](angularjs/relative_assets-and-module_id.md)
 
 ###Git
 * [`core.autocrlf`](git/core-autocrlf.md)
