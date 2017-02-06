@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 
 ---
@@ -66,6 +66,7 @@ _28 TILs and counting..._
 ###Unix
 * [Disk Free `df`](unix/df.md)
 * [Disk Usage `du`](unix/du.md)
+* [`kill` & `killall`](unix/kill-killall.md)
 * [Kill 'unclosable' window](unix/kill-unclosable-window.md)
 * [List installed packages](unix/list-installed-packages.md)
 * [Sticky Bit](unix/sticky-bit.md)
