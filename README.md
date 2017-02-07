@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 
 ---
@@ -34,6 +34,7 @@ _30 TILs and counting..._
 * [`core.autocrlf`](git/core-autocrlf.md)
 * [Delete remote branch](git/delete-remote-branch.md)
 * [Remove untracked files or folders](git/remove-untracked-files-or-folders.md)
+* [Signing commits](git/commit-signing.md)
 * [Tracking remote branches](git/tracking-remote-branches.md)
 * [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
 
