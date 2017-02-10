@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 
 ---
@@ -15,6 +15,7 @@ _31 TILs and counting..._
 ###Categories
 * [AngularJS](#angularjs)
 * [Git](#git)
+* [HTML](#html)
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [Mysql](#mysql)
@@ -37,6 +38,9 @@ _31 TILs and counting..._
 * [Signing commits](git/commit-signing.md)
 * [Tracking remote branches](git/tracking-remote-branches.md)
 * [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
+
+###HTML
+* [The purpose of `for` in a `label` tag](html/label-for.md)
 
 ###Javascript
 * [Arrow Functions](javascript/arrow-functions.md)
