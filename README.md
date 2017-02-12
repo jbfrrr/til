@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 
 ---
@@ -28,6 +28,7 @@ _32 TILs and counting..._
 ---
 
 ###AngularJS
+* [Directive _asterisk_ `*` prefix](angularjs/directive_asterisk_prefix.md)
 * [Relative assets and `moduleId`](angularjs/relative_assets-and-module_id.md)
 
 ###Git
