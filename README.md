@@ -7,13 +7,14 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_33 TILs and counting..._
+_34 TILs and counting..._
 
 
 ---
 
 ###Categories
 * [AngularJS](#angularjs)
+* [Bash](#bash)
 * [Git](#git)
 * [HTML](#html)
 * [Javascript](#javascript)
@@ -30,6 +31,9 @@ _33 TILs and counting..._
 ###AngularJS
 * [Directive _asterisk_ `*` prefix](angularjs/directive_asterisk_prefix.md)
 * [Relative assets and `moduleId`](angularjs/relative_assets-and-module_id.md)
+
+###Bash
+* [Poorman's Ternary Operator](bash/poormans-ternary-operator.md)
 
 ###Git
 * [`bisect`](git/bisect.md)
