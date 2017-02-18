@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_34 TILs and counting..._
+_35 TILs and counting..._
 
 
 ---
@@ -33,6 +33,7 @@ _34 TILs and counting..._
 * [Relative assets and `moduleId`](angularjs/relative_assets-and-module_id.md)
 
 ###Bash
+* [Is `dir` existing?](bash/is-dir-existing.md)
 * [Poorman's Ternary Operator](bash/poormans-ternary-operator.md)
 
 ###Git
