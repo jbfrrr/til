@@ -14,5 +14,5 @@ Also, notice that unlike other ternary operators in languages such as PHP, C, Ja
 x = isValid ? 1 : 0;
 ```
 
-bash's attempt requires that an expression is provided after its `then` and/or `else` blocks...
+bash's attempt requires that an assignment expression is provided after its `then` and/or `else` blocks...
 
