@@ -7,14 +7,15 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_36 TILs and counting..._
+_37 TILs and counting..._
 
 
 ---
 
-###Categories
+### Categories
 * [AngularJS](#angularjs)
 * [Bash](#bash)
+* [CSS](#css)
 * [Git](#git)
 * [HTML](#html)
 * [Javascript](#javascript)
@@ -28,15 +29,18 @@ _36 TILs and counting..._
 
 ---
 
-###AngularJS
+### AngularJS
 * [Directive _asterisk_ `*` prefix](angularjs/directive_asterisk_prefix.md)
 * [Relative assets and `moduleId`](angularjs/relative_assets-and-module_id.md)
 
-###Bash
+### Bash
 * [Is `dir` existing?](bash/is-dir-existing.md)
 * [Poorman's Ternary Operator](bash/poormans-ternary-operator.md)
 
-###Git
+### CSS
+* [`object-fit` & `object-position`](css/object-fit-and-object-position.md)
+
+### Git
 * [`bisect`](git/bisect.md)
 * [`core.autocrlf`](git/core-autocrlf.md)
 * [Delete remote branch](git/delete-remote-branch.md)
@@ -45,10 +49,10 @@ _36 TILs and counting..._
 * [Tracking remote branches](git/tracking-remote-branches.md)
 * [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
 
-###HTML
+### HTML
 * [The purpose of `for` in a `label` tag](html/label-for.md)
 
-###Javascript
+### Javascript
 * [Arrow Functions](javascript/arrow-functions.md)
 * [Spread Operator (a.k.a Rest Operator)](javascript/spread-operator.md)
 * [Template Literals](javascript/template-literals.md)
@@ -56,26 +60,26 @@ _36 TILs and counting..._
 * [`var`, `let`, `const`](javascript/var-let-const.md)
 
 
-###Linux
+### Linux
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
 
-###Mysql
+### Mysql
 * [`pager`](mysql/pager.md)
 
-###PHP
+### PHP
 * [`empty` quirk](php/empty-quirk.md)
 
-###Security
+### Security
 * [`istheinternetonfire.com`](unix/istheinternetonfire.com.md)
 
-###Tmux
+### Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
 * [Kill Window](tmux/kill-window.md)
 * [Scrolling](tmux/scrolling.md)
 * [Support 256 colors](tmux/support-256-colors.md)
 * [Switching Layouts](tmux/switching-layouts.md)
 
-###Unix
+### Unix
 * [Disk Free `df`](unix/df.md)
 * [Disk Usage `du`](unix/du.md)
 * [`kill` & `killall`](unix/kill-killall.md)
@@ -84,7 +88,7 @@ _36 TILs and counting..._
 * [`pm-utils`](unix/pm-utils.md)
 * [Sticky Bit](unix/sticky-bit.md)
 
-###Vim
+### Vim
 * [Folding](vim/folding.md)
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
 * [Relocating a tab](vim/relocating-a-tab.md)
