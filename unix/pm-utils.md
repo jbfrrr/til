@@ -17,8 +17,13 @@ Doing `sudo pm-suspend` will turn off your machine's cpu and most of its other c
 
 ### `pm-hibernate`
 ---
-[wip]
+Doing `sudo pm-hibernate` saves your machine's state to disk (secondary memory) and will turn off your machine entirely. The good part here is that your machine can stay in hibernate mode for an indefinite amount of time. However, recovering from hibernate state requires more time (~15-45 seconds)
 
-### `pm-suspend-hibrid`
+### `pm-suspend-hybrid`
 ---
-[wip]
+Think of this as the "middle ground" of the previous two functions, balancing bootspeed and fail-safe convenience. `sudo pm-suspend-hybrid` sets the machine to be ready to hibernate in case the machine runs out of power, making sure to save its state to disk. However, unlike `pm-hibernate` it does not completely shutdown the machine thereby allowing recovery from this hybrid suspension to be much faster (i.e. as long as the machine still has power left...)
+
+<br>
+<br>
+<br>
+**additional info**: For `pm-suspend` and `pm-suspend-hybrid`, you can add args after the command. These args are known as [`quirks`](https://linux.die.net/man/8/pm-hibernate), Basically they allow you to specify some specific/special handling of certain hardware upon entering these states.
