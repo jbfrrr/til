@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_38 TILs and counting..._
+_39 TILs and counting..._
 
 
 ---
@@ -62,6 +62,7 @@ _38 TILs and counting..._
 
 
 ### Linux
+* [Downgrade package via `apt-get`](linux/downgrade-package-apt-get.md)
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
 
 ### Mysql
