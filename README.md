@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_37 TILs and counting..._
+_38 TILs and counting..._
 
 
 ---
@@ -22,6 +22,7 @@ _37 TILs and counting..._
 * [Linux](#linux)
 * [Mysql](#mysql)
 * [PHP](#php)
+* [Python](#python)
 * [Security](#security)
 * [Tmux](#tmux)
 * [Unix](#unix)
@@ -68,6 +69,9 @@ _37 TILs and counting..._
 
 ### PHP
 * [`empty` quirk](php/empty-quirk.md)
+
+### Python
+* [`pickle`](python/pickle.md)
 
 ### Security
 * [`istheinternetonfire.com`](unix/istheinternetonfire.com.md)
