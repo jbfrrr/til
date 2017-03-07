@@ -94,6 +94,6 @@ _39 TILs and counting..._
 * [Sticky Bit](unix/sticky-bit.md)
 
 ### Vim
-* [Folding](vim/folding.md)
+* [Folding](vim/folding.md) <sub>`WIP`</sub>
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
 * [Relocating a tab](vim/relocating-a-tab.md)

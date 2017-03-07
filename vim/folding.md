@@ -14,7 +14,7 @@ For more details/info checkout other resources I've listed below
 ---
 
 
-####Basic
+#### Basic
 
 First and foremost, in order to use folding in vim, you need to specify what `foldmethod` to use.
 There are six (6) different types of fold methods available:
@@ -26,7 +26,7 @@ There are six (6) different types of fold methods available:
 * Diff - _fold unchanged text when viewing diffs_
 * Expr -_folds are defined by a user-defined expression_
 
-For basics, we'll focus on 'Indent'. 
+For basics, we'll focus on 'Indent'.
 
 To set your fold method do:
 ```vim
@@ -46,10 +46,10 @@ set nofoldenable
 A good practice would also to guard against too many folds. You can set this by:
 ```vim
 " maximum of 10 nested folds
-set foldnestmax=10 
+set foldnestmax=10
 ```
 
-From here on, you can play around with the **folding commands**: 
+From here on, you can play around with the **folding commands**:
 ```
 " ESSENTIAL
 zi	switch folding on or off
@@ -75,10 +75,10 @@ zr	increase `foldlevel` by one
 nnoremap <Space> za
 ```
 
-####Advanced [TBA]
+#### Advanced <sub>`WIP`</sub>
 
 
-####Resources
+#### Resources
 * [vim.wikia: folding](http://vim.wikia.com/wiki/Folding)
 * [stevelosh: folding](http://learnvimscriptthehardway.stevelosh.com/chapters/48.html)
 * [vimcasts: how to fold](http://vimcasts.org/episodes/how-to-fold/)
