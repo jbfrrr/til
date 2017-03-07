@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_39 TILs and counting..._
+_40 TILs and counting..._
 
 
 ---
@@ -51,6 +51,7 @@ _39 TILs and counting..._
 * [Use Repository Specific User Config](git/use-repository-specific-user-config.md)
 
 ### HTML
+* [Browser History API](html/browser-history-api.md) <sub>`WIP`</sub>
 * [The purpose of `for` in a `label` tag](html/label-for.md)
 
 ### Javascript
