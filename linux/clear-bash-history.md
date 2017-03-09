@@ -1,0 +1,3 @@
+# Clear Bash History
+
+
