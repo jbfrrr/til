@@ -83,7 +83,7 @@ _41 TILs and counting..._
 * [`pickle`](python/pickle.md)
 
 ### Security
-* [`istheinternetonfire.com`](linux/istheinternetonfire.com.md)
+* [`istheinternetonfire.com`](security/istheinternetonfire.com.md)
 
 ### Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
