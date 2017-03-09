@@ -25,7 +25,6 @@ _41 TILs and counting..._
 * [Python](#python)
 * [Security](#security)
 * [Tmux](#tmux)
-* [Unix](#unix)
 * [Vim](#vim)
 
 ---
@@ -63,8 +62,15 @@ _41 TILs and counting..._
 
 
 ### Linux
+* [Disk Free `df`](linux/df.md)
+* [Disk Usage `du`](linux/du.md)
 * [Downgrade package via `apt-get`](linux/downgrade-package-apt-get.md)
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
+* [`kill` & `killall`](linux/kill-killall.md)
+* [Kill 'unclosable' window](linux/kill-unclosable-window.md)
+* [List installed packages](linux/list-installed-packages.md)
+* [`pm-utils`](linux/pm-utils.md)
+* [Sticky Bit](linux/sticky-bit.md)
 
 ### Mysql
 * [`pager`](mysql/pager.md)
@@ -77,7 +83,7 @@ _41 TILs and counting..._
 * [`pickle`](python/pickle.md)
 
 ### Security
-* [`istheinternetonfire.com`](unix/istheinternetonfire.com.md)
+* [`istheinternetonfire.com`](linux/istheinternetonfire.com.md)
 
 ### Tmux
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
@@ -85,15 +91,6 @@ _41 TILs and counting..._
 * [Scrolling](tmux/scrolling.md)
 * [Support 256 colors](tmux/support-256-colors.md)
 * [Switching Layouts](tmux/switching-layouts.md)
-
-### Unix
-* [Disk Free `df`](unix/df.md)
-* [Disk Usage `du`](unix/du.md)
-* [`kill` & `killall`](unix/kill-killall.md)
-* [Kill 'unclosable' window](unix/kill-unclosable-window.md)
-* [List installed packages](unix/list-installed-packages.md)
-* [`pm-utils`](unix/pm-utils.md)
-* [Sticky Bit](unix/sticky-bit.md)
 
 ### Vim
 * [Folding](vim/folding.md) <sub>`WIP`</sub>
