@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 * [jwworth](https://github.com/jwworth/til)
 
 
-_41 TILs and counting..._
+_42 TILs and counting..._
 
 
 ---
@@ -62,6 +62,7 @@ _41 TILs and counting..._
 
 
 ### Linux
+* [Clear Bash History](linux/clear-bash-history.md)
 * [Disk Free `df`](linux/df.md)
 * [Disk Usage `du`](linux/du.md)
 * [Downgrade package via `apt-get`](linux/downgrade-package-apt-get.md)
