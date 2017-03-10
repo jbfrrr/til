@@ -3,8 +3,8 @@
 
 This is a collection of short posts on bits of knowledge I learn on a daily basis related to programming, development and tech in general. This project is driven by my will to be more responsible and diligent with my personal growth and was inspired from the ff:
 
-* [jbranchaud](https://github.com/jbranchaud/til)
-* [jwworth](https://github.com/jwworth/til)
+- [jbranchaud](https://github.com/jbranchaud/til)
+- [jwworth](https://github.com/jwworth/til)
 
 
 _42 TILs and counting..._
@@ -13,19 +13,19 @@ _42 TILs and counting..._
 ---
 
 ### Categories
-* [AngularJS](#angularjs)
-* [Bash](#bash)
-* [CSS](#css)
-* [Git](#git)
-* [HTML](#html)
-* [Javascript](#javascript)
-* [Linux](#linux)
-* [Mysql](#mysql)
-* [PHP](#php)
-* [Python](#python)
-* [Security](#security)
-* [Tmux](#tmux)
-* [Vim](#vim)
+- [AngularJS](#angularjs)
+- [Bash](#bash)
+- [CSS](#css)
+- [Git](#git)
+- [HTML](#html)
+- [Javascript](#javascript)
+- [Linux](#linux)
+- [Mysql](#mysql)
+- [PHP](#php)
+- [Python](#python)
+- [Security](#security)
+- [Tmux](#tmux)
+- [Vim](#vim)
 
 ---
 
