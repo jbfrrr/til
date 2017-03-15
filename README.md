@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 - [jwworth](https://github.com/jwworth/til)
 
 
-_42 TILs and counting..._
+_43 TILs and counting..._
 
 
 ---
@@ -75,6 +75,7 @@ _42 TILs and counting..._
 
 ### Mysql
 * [`pager`](mysql/pager.md)
+* [Replacing Strings](mysql/string-replace.md)
 
 ### PHP
 * [`array_multisort`](php/array_multisort.md)
