@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 - [jwworth](https://github.com/jwworth/til)
 
 
-_43 TILs and counting..._
+_44 TILs and counting..._
 
 
 ---
@@ -85,6 +85,7 @@ _43 TILs and counting..._
 * [`pickle`](python/pickle.md)
 
 ### Security
+* [`GPG` Basics](security/gpg-basics.md)
 * [`istheinternetonfire.com`](security/istheinternetonfire.com.md)
 
 ### Tmux
