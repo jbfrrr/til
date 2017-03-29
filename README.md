@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_45 TILs and counting..._
+_46 TILs and counting..._
 
 
 ---
@@ -20,6 +20,7 @@ _45 TILs and counting..._
 - [HTML](#html)
 - [Javascript](#javascript)
 - [Linux](#linux)
+- [NPM](#npm)
 - [Mysql](#mysql)
 - [PHP](#php)
 - [Python](#python)
@@ -73,6 +74,9 @@ _45 TILs and counting..._
 * [List installed packages](linux/list-installed-packages.md)
 * [`pm-utils`](linux/pm-utils.md)
 * [Sticky Bit](linux/sticky-bit.md)
+
+### NPM
+* [`--save` and `--save-dev`](npm/npm-save-savedev.md)
 
 ### Mysql
 * [`pager`](mysql/pager.md)
