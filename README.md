@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn on a daily basi
 - [jwworth](https://github.com/jwworth/til)
 
 
-_44 TILs and counting..._
+_45 TILs and counting..._
 
 
 ---
@@ -67,6 +67,7 @@ _44 TILs and counting..._
 * [Disk Usage `du`](linux/du.md)
 * [Downgrade package via `apt-get`](linux/downgrade-package-apt-get.md)
 * [`gdebi` vs `dpkg`](linux/gdebi-vs-dpkg.md)
+* [`grep` multiple patterns](linux/grep-multiple.md)
 * [`kill` & `killall`](linux/kill-killall.md)
 * [Kill 'unclosable' window](linux/kill-unclosable-window.md)
 * [List installed packages](linux/list-installed-packages.md)
