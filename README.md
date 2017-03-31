@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_46 TILs and counting..._
+_47 TILs and counting..._
 
 
 ---
@@ -84,6 +84,7 @@ _46 TILs and counting..._
 
 ### PHP
 * [`array_multisort`](php/array_multisort.md)
+* [`require` vs `include`](php/require-include.md)
 * [`empty` quirk](php/empty-quirk.md)
 
 ### Python
