@@ -10,9 +10,9 @@ Another use case of `GPG` would be for signing stuff digitally e.g. signing your
 ### `GPG` vs `PGP`?
 TL;DR, `PGP`, aka Pretty Good Privacy serves the same purpose as `GPG`. However, `PGP` is **proprietary** software while `GPG` is **open source and free**. For more info about their differences:
 
-- [Difference Between `PGP` and `GPG`](http://www.differencebetween.net/technology/software-technology/difference-between-pgp-and-gpg/)
-- [Difference between `PGP` and `GPG`](http://askubuntu.com/questions/186805/difference-between-pgp-and-gpg)
-- [OpenPGP, `PGP` and `GPG`: What is the difference?](https://www.goanywhere.com/blog/2013/07/18/openpgp-pgp-gpg-difference)
+- [Difference Between `PGP` and `GPG`<sub>1</sub>](http://www.differencebetween.net/technology/software-technology/difference-between-pgp-and-gpg/)
+- [Difference between `PGP` and `GPG`<sub>2</sub>](http://askubuntu.com/questions/186805/difference-between-pgp-and-gpg)
+- [Open`PGP`, `PGP` and `GPG`: What is the difference?](https://www.goanywhere.com/blog/2013/07/18/openpgp-pgp-gpg-difference)
 - [Are `GPG` and `PGP` compatible?](http://crypto.stackexchange.com/questions/13111/if-pgp-and-gpg-both-follow-the-openpgp-standard-are-they-100-compatible-in-all)
 
 ### How do I generate my `GPG` keys?
@@ -35,11 +35,25 @@ gpg -K --keyid-format 0xlong # get long format for your key ids
 ```
 
 ### Encrypting and Decrypting
+1. Import the public key of the person you wish to send the encrypted file to. (_two methods are provided below_)
 ```sh
-# encrypt
-gpg --encrypt --sign -r <receipient@email.com> <file_name>
+# method 1
+# use either public_key, email or real_name
+gpg --search-keys --keyserver keyserver.ubuntu.com <public_key|email|real_name>
 
-# decrypt
+# method 2
+# assuming the receiver sent his/her publick key to you
+gpg --import receiver_public_key.gpg
+```
+
+2. Encrypt
+```sh
+gpg --encrypt --sign -r <public_key> <file_name>
+
+```
+
+3. Decrypt (_at receiver's end_)
+```sh
 gpg <file_name>
 ```
 
@@ -50,3 +64,4 @@ gpg <file_name>
 - Check the manual via `man gpg`
 - [Cheat Sheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 - [Tutorial](https://futureboy.us/pgp.html)
+- [Encrypt and Decrypt a file using `gpg`](http://www.thegeekstuff.com/2013/02/gpg-encrypt-decrypt/?ref=binfind.com/web)
