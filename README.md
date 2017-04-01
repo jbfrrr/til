@@ -84,8 +84,8 @@ _47 TILs and counting..._
 
 ### PHP
 * [`array_multisort`](php/array_multisort.md)
-* [`require` vs `include`](php/require-include.md)
 * [`empty` quirk](php/empty-quirk.md)
+* [`require` vs `include`](php/require-include.md)
 
 ### Python
 * [`pickle`](python/pickle.md)
