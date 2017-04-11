@@ -31,10 +31,10 @@ _50 TILs and counting..._
 ---
 
 ### AngularJS
-* [Directive _asterisk_ `*` prefix](angularjs/directive_asterisk_prefix.md)
+* [Directive _asterisk_ `*` prefix](angularjs/directive-asterisk-prefix.md)
 * [Disabling elements](angularjs/disabling-elements.md)
-* [`ng-if` vs `ng-show`](angularjs/ng_if_show.md)
-* [Relative assets and `moduleId`](angularjs/relative_assets-and-module_id.md)
+* [`ng-if` vs `ng-show`](angularjs/ng-if-vs-ng-show.md)
+* [Relative assets and `moduleId`](angularjs/relative-assets-and-module-id.md)
 
 ### Bash
 * [Is `dir` existing?](bash/is-dir-existing.md)
