@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_50 TILs and counting..._
+_51 TILs and counting..._
 
 
 ---
@@ -93,6 +93,7 @@ _50 TILs and counting..._
 * [`pickle`](python/pickle.md)
 
 ### Security
+* [Block sites via `etc/hosts`](security/block-sites-etc-hosts.md)
 * [`GPG` Basics](security/gpg-basics.md)
 * [`istheinternetonfire.com`](security/istheinternetonfire.com.md)
 
