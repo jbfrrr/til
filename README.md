@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_52 TILs and counting..._
+_53 TILs and counting..._
 
 
 ---
@@ -92,6 +92,7 @@ _52 TILs and counting..._
 
 ### Python
 * [`pickle`](python/pickle.md)
+* [`strip` String](python/strip-string.md)
 
 ### Security
 * [Block sites via `etc/hosts`](security/block-sites-etc-hosts.md)
