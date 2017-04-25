@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 
 ---
@@ -91,6 +91,7 @@ _54 TILs and counting..._
 * [`require` vs `include`](php/require-include.md)
 
 ### Python
+* [`is`, `is not` vs `==`, `!=`](python/is-isnot-eq-neq.md)
 * [`pickle`](python/pickle.md)
 * [`strip` String](python/strip-string.md)
 * [Ternary Operation](python/ternary-operation.md)
