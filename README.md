@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_55 TILs and counting..._
+_56 TILs and counting..._
 
 
 ---
@@ -19,6 +19,7 @@ _55 TILs and counting..._
 - [Git](#git)
 - [HTML](#html)
 - [Javascript](#javascript)
+- [Kibana](#kibana)
 - [Linux](#linux)
 - [NPM](#npm)
 - [Mysql](#mysql)
@@ -63,6 +64,8 @@ _55 TILs and counting..._
 * [Tilde Operator](javascript/tilde-operator.md)
 * [`var`, `let`, `const`](javascript/var-let-const.md)
 
+### Kibana
+* [Query and visualize aggregated logs](kibana/query-and-visualize-aggregated-logs.md)
 
 ### Linux
 * [Clear Bash History](linux/clear-bash-history.md)
