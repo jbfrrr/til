@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_56 TILs and counting..._
+_57 TILs and counting..._
 
 
 ---
@@ -105,6 +105,7 @@ _56 TILs and counting..._
 * [`istheinternetonfire.com`](security/istheinternetonfire.com.md)
 
 ### Tmux
+* [Change session name](tmux/change-session-name.md)
 * [Detaching and Attaching to session](tmux/detaching-and-attaching-to-session.md)
 * [Kill Window](tmux/kill-window.md)
 * [Scrolling](tmux/scrolling.md)
