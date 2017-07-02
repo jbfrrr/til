@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_58 TILs and counting..._
+_59 TILs and counting..._
 
 
 ---
@@ -80,6 +80,7 @@ _58 TILs and counting..._
 * [`pm-utils`](linux/pm-utils.md)
 * [`rsync`](linux/rsync.md) <sub>`WIP`</sub>
 * [Sticky Bit](linux/sticky-bit.md)
+* [`wget` and `curl`](linux/wget-and-curl.md) <sub>`WIP`</sub>
 
 ### NPM
 * [`--save` and `--save-dev`](npm/npm-save-savedev.md)
