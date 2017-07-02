@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_57 TILs and counting..._
+_58 TILs and counting..._
 
 
 ---
@@ -78,6 +78,7 @@ _57 TILs and counting..._
 * [Kill 'unclosable' window](linux/kill-unclosable-window.md)
 * [List installed packages](linux/list-installed-packages.md)
 * [`pm-utils`](linux/pm-utils.md)
+* [`rsync`](linux/rsync.md) <sub>`WIP`</sub>
 * [Sticky Bit](linux/sticky-bit.md)
 
 ### NPM
