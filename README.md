@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_60 TILs and counting..._
+_61 TILs and counting..._
 
 
 ---
@@ -119,4 +119,5 @@ _60 TILs and counting..._
 * [Folding](vim/folding.md) <sub>`WIP`</sub>
 * [Go to start or end character of a line](vim/go-to-start-or-end-character-of-a-line.md)
 * [Relocating a tab](vim/relocating-a-tab.md)
+* [Suspend session](vim/suspend.md)
 * [Tab-To-Space](vim/tab-to-space.md)
