@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_63 TILs and counting..._
+_64 TILs and counting..._
 
 
 ---
@@ -18,6 +18,7 @@ _63 TILs and counting..._
 - [CSS](#css)
 - [Git](#git)
 - [HTML](#html)
+- [i3](#i3)
 - [Javascript](#javascript)
 - [Kibana](#kibana)
 - [Linux](#linux)
@@ -57,6 +58,9 @@ _63 TILs and counting..._
 ### HTML
 * [Browser History API](html/browser-history-api.md) <sub>`WIP`</sub>
 * [The purpose of `for` in a `label` tag](html/label-for.md)
+
+### i3
+* [Basic hotkeys](i3/basic-hotkeys.md)
 
 ### Javascript
 * [Arrow Functions](javascript/arrow-functions.md)
