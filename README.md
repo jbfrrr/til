@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_64 TILs and counting..._
+_65 TILs and counting..._
 
 
 ---
@@ -92,6 +92,7 @@ _64 TILs and counting..._
 * [Set default node version using `nvm`](npm/set-default-version.md)
 
 ### Mysql
+* [`INSERT IGNORE...`](mysql/insert-ignore.md)
 * [`pager`](mysql/pager.md)
 * [Replacing Strings](mysql/string-replace.md)
 
