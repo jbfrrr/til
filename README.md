@@ -7,7 +7,7 @@ This is a collection of short posts on bits of knowledge I learn/relearn on a da
 - [jwworth](https://github.com/jwworth/til)
 
 
-_65 TILs and counting..._
+_66 TILs and counting..._
 
 
 ---
@@ -49,6 +49,7 @@ _65 TILs and counting..._
 * [`bisect`](git/bisect.md)
 * [`core.autocrlf`](git/core-autocrlf.md)
 * [Delete remote branch](git/delete-remote-branch.md)
+* [Modifying remote url](git/modifying-remote-url.md)
 * [Remove untracked files or folders](git/remove-untracked-files-or-folders.md)
 * [Resolving conflicts with `ours` and `theirs`](git/ours-theirs.md)
 * [Signing commits](git/commit-signing.md)
